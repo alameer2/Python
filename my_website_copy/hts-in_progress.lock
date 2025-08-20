@@ -1,0 +1,7 @@
+Mirror in progress since Wed, 20 Aug 2025 19:21:37 .. please wait!
+httrack https://ak.sv -O my_website_copy -q 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=471
+UID=1000
+GID=1000
+START=1755717697
